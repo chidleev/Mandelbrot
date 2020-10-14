@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\chidl\source\repos\OpenGL Mandelbrot\OpenGL Mandelbrot\Shader.h(45,40): warning C4101: e: неиспользованная локальная переменная
+C:\Users\chidl\source\repos\OpenGL Mandelbrot\OpenGL Mandelbrot\main.cpp(111,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\chidl\source\repos\OpenGL Mandelbrot\OpenGL Mandelbrot\main.cpp(114,44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\chidl\source\repos\OpenGL Mandelbrot\OpenGL Mandelbrot\main.cpp(158,21): warning C4305: /=: усечение из "double" в "float"
+C:\Users\chidl\source\repos\OpenGL Mandelbrot\OpenGL Mandelbrot\main.cpp(159,17): warning C4305: +=: усечение из "double" в "float"
+C:\Users\chidl\source\repos\OpenGL Mandelbrot\OpenGL Mandelbrot\main.cpp(164,21): warning C4305: *=: усечение из "double" в "float"
+C:\Users\chidl\source\repos\OpenGL Mandelbrot\OpenGL Mandelbrot\main.cpp(165,17): warning C4305: -=: усечение из "double" в "float"
+C:\Users\chidl\source\repos\OpenGL Mandelbrot\OpenGL Mandelbrot\main.cpp(169,29): warning C4305: +=: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\chidl\source\repos\OpenGL Mandelbrot\OpenGL Mandelbrot\main.cpp(172,29): warning C4305: -=: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\chidl\source\repos\OpenGL Mandelbrot\OpenGL Mandelbrot\main.cpp(175,29): warning C4305: +=: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\chidl\source\repos\OpenGL Mandelbrot\OpenGL Mandelbrot\main.cpp(178,29): warning C4305: -=: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+  OpenGL Mandelbrot.vcxproj -> C:\Users\chidl\source\repos\OpenGL Mandelbrot\x64\Debug\OpenGL Mandelbrot.exe
